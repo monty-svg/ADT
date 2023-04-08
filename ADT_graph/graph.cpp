@@ -13,6 +13,8 @@ class Graph{
 public:
     Graph();
     ~Graph();
+private:
+    
 };
 
 #endif
