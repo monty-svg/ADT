@@ -15,6 +15,7 @@ public:
     ~Graph();
 private:
     double m_aData[256];
+    double m_f;
 };
 
 #endif
